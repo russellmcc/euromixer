@@ -1,6 +1,6 @@
 Connectors:
 5x       Erthenvar Vertical Jacks
-1x M05x2 10-pin Eurorack Power Connector
+1x M08x2 16-pin Eurorack Power Connector
 
 Potentiometers
 4x PDB12 100K PCM mount panel pot (PDB12-H4251-104BF)

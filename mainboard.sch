@@ -1167,7 +1167,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 </classes>
 <parts>
 <part name="IC1" library="linear" deviceset="LF353" device="D"/>
-<part name="J6" library="eurorack" deviceset="POWER_SIMPLE" device="10"/>
+<part name="J6" library="eurorack" deviceset="POWER_SIMPLE" device="16" value="POWER_SIMPLE16"/>
 <part name="J1" library="erthenvar" deviceset="AUDIO-JACK" device="ERTHENVAR"/>
 <part name="J2" library="erthenvar" deviceset="AUDIO-JACK" device="ERTHENVAR"/>
 <part name="J3" library="erthenvar" deviceset="AUDIO-JACK" device="ERTHENVAR"/>
