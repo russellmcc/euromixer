@@ -1,0 +1,25 @@
+Connectors:
+5x       Erthenvar Vertical Jacks
+1x M05x2 10-pin Eurorack Power Connector
+
+Potentiometers
+4x PDB12 100K PCM mount panel pot (PDB12-H4251-104BF)
+
+Semiconductors
+1x SOIC-8 LF353D op amp (IC1)
+
+Resistors
+1x 0603 1K   Resistor 5% (R7)
+1x 0603 27K  Resistor 5% (R5)
+5x 0603 100K Resistor 5% (R1, R2, R3, R4, R6)
+
+Capacitors
+1x 0603 .1uF X7R Capacitor (C1)
+
+
+
+
+
+
+
+
